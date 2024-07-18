@@ -39,5 +39,3 @@ typedef JsonPayLoad = Map<String, dynamic>;
 
 /// Global variable for AppState class
 AppState appState = AppState();
-
-//421baad743a04bca8b305433114db082
